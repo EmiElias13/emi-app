@@ -7,10 +7,11 @@ function Home() {
         </div>
         <div className="hero-copy">
           <p className="eyebrow">Software Engineer</p>
-          <h1>Quiet work, lasting craft.</h1>
+          <h1>Emi Elias</h1>
           <p className="subtitle">
-            I design and build considered software with the same restraint as a
-            well-kept court: cream, green, and nothing extra.
+            Software engineer specializing in AWS serverless architecture, Angular and
+            React frontends. Currently working at Trimble building cloud infrastructure, 
+            development tools and web applications.
           </p>
         </div>
       </section>
