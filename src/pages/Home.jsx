@@ -3,7 +3,7 @@ function Home() {
     <main>
       <section className="hero">
         <div className="portrait-frame">
-          <img src="/emi-portrait.png?v=3" alt="Doodle of a software engineer in a green shirt at a laptop, with a colorful Mexican mug" />
+          <img src={`${import.meta.env.BASE_URL}emi-portrait.png?v=3`} alt="Doodle of a software engineer in a green shirt at a laptop, with a colorful Mexican mug" />
         </div>
         <div className="hero-copy">
           <p className="eyebrow">Software Engineer</p>
